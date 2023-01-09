@@ -1,0 +1,7 @@
+﻿  FindWordsService.cpp
+  SearchWordsForm.cpp
+\\Mac\Home\Desktop\SecondControlWork\SearchWordsForm.cpp(7,34): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  FindWordsService.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SecondControlWork.vcxproj -> \\Mac\Home\Desktop\SecondControlWork\arm64\Debug\SecondControlWork.exe

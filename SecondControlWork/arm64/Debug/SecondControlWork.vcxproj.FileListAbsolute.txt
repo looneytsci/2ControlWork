@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\SecondControlWork\arm64\Debug\SecondControlWork.vcxproj.AssemblyReference.cache
+\\Mac\Home\Desktop\SecondControlWork\arm64\Debug\SecondControlWork.vcxproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\SecondControlWork\arm64\Debug\SecondControlWork.SearchWordsForm.resources
+\\Mac\Home\Desktop\SecondControlWork\arm64\Debug\SecondControlWork.vcxproj.GenerateResource.cache
+\\Mac\Home\Desktop\SecondControlWork\arm64\Debug\SecondControlWork.exe
